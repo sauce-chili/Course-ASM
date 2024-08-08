@@ -1,0 +1,9 @@
+# ninja log v5
+2	644	7051891132975950	CMakeFiles/lab_5_Smirnov.dir/main.cpp.obj	316c613560d7783e
+1	155	7066541543934851	build.ninja	98ff0ab0b1a8ecc1
+644	735	7051891133857536	lab_5_Smirnov.exe	caad87e4a33f48c
+2	886	7067387225272378	CMakeFiles/lab_5_Smirnov.dir/main.cpp.obj	ecd9928a39a5930
+2	600	7067387393801608	CMakeFiles/lab_5_Smirnov.dir/main.cpp.obj	ecd9928a39a5930
+600	684	7067387394612040	lab_5_Smirnov.exe	a7b4fe0eb13bee17
+3	561	7067389211964013	CMakeFiles/lab_5_Smirnov.dir/main.cpp.obj	ecd9928a39a5930
+561	654	7067389212856951	lab_5_Smirnov.exe	a7b4fe0eb13bee17
